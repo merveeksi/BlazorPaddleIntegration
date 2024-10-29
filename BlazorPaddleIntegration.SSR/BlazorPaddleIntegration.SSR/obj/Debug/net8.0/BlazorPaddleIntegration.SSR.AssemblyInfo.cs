@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorPaddleIntegration.SSR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5a586dc9cbdee022efcfe49676278301ffe2a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorPaddleIntegration.SSR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorPaddleIntegration.SSR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
