@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/BlazorPaddleIntegration.SSR.Client.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BlazorPaddleIntegration.SSR.Client.props" />
+</Project>

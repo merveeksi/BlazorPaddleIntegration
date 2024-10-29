@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/pc/Desktop/BlazorPaddleIntegration/BlazorPaddleIntegration/BlazorPaddleIntegration.SSR/BlazorPaddleIntegration.SSR/obj/Debug/net8.0/scopedcss/projectbundle/BlazorPaddleIntegration.SSR.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorPaddleIntegration.SSR.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/pc/Desktop/BlazorPaddleIntegration/BlazorPaddleIntegration/BlazorPaddleIntegration.SSR/BlazorPaddleIntegration.SSR/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/pc/Desktop/BlazorPaddleIntegration/BlazorPaddleIntegration/BlazorPaddleIntegration.SSR/BlazorPaddleIntegration.SSR/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/pc/Desktop/BlazorPaddleIntegration/BlazorPaddleIntegration/BlazorPaddleIntegration.SSR/BlazorPaddleIntegration.SSR/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/pc/Desktop/BlazorPaddleIntegration/BlazorPaddleIntegration/BlazorPaddleIntegration.SSR/BlazorPaddleIntegration.SSR/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorPaddleIntegration.SSR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorPaddleIntegration.SSR.props",
+      "PackagePath": "build\\BlazorPaddleIntegration.SSR.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorPaddleIntegration.SSR.props",
+      "PackagePath": "buildMultiTargeting\\BlazorPaddleIntegration.SSR.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorPaddleIntegration.SSR.props",
+      "PackagePath": "buildTransitive\\BlazorPaddleIntegration.SSR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
