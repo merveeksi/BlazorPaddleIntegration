@@ -1,0 +1,2 @@
+# BlazorPaddleIntegration
+Paddle Ödeme Entegrasyonu
